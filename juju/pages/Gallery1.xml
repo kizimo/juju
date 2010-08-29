@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+   <album title="Nature" description="Images of trees, lakes and flowers, and other stuff" lgpath="./jujuimage/" tnpath="./jujuthumb/" tnsmpath="./jujuthumb/">
+      <img src="byzantine-blush.png" tn="byzantine-blush.png" />
+      <img src="JUJU_-bamboo_-golden_jade__leather_-mica.png" tn="JUJU_-bamboo_-golden_jade__leather_-mica.png"/>
+      <img src="juju_constantine-2.png" />
+      <img src="juju_tri-color-coin.png" />
+      <img src="JUJU-byzantine-gold-pearls.png" />
+   </album>
+</gallery>
+

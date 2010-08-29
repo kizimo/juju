@@ -1,0 +1,11 @@
+<?xml version="1.0" encode="UTF-8"?>
+<jujupage title="Furniture" type="categories"> <!-- Category list. Could use "gallery" or "page" as well -->
+	<category name="Furniture Category 1" type="page">
+		<!-- Category HTML content here -->
+		Lorem Ipsum Dolor Sit Amet...
+	</category>
+	<category name="Furniture Category 2" type="page">
+		<!-- Category HTML content here -->
+		Lorem Ipsum Dolor Sit Amet...
+	</category>
+</jujupage>

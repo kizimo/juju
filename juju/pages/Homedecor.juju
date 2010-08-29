@@ -1,0 +1,8 @@
+<?xml version="1.0" encode="UTF-8"?>
+<jujupage title="Home Décor" type="categories"> <!-- Category list. Could use "gallery" or "page" as well -->
+	<category name="Home" type="page"><textformat blockindent='0' indent='0' leading='7' leftmargin='0' rightmargin='0' tabstops='0'><p align="left">Lolem ipsum doror sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p><br></br></textformat>
+<p align="left"><textformat blockindent='0' indent='0' leading='7' leftmargin='0' rightmargin='0' tabstops='0'><a href='#/Gallery/'><b>VISIT OUR ACCENT FURNITURE GALLERY</b></a></textformat></p>
+<br></br>
+<p align="left"><textformat blockindent='0' indent='0' leading='7' leftmargin='0' rightmargin='0' tabstops='0'><a href='#/Login/'><b>LOGIN TO VIEW PRICING</b></a></textformat></p></category>
+	<category name="Home Category 2" type="page"><textformat blockindent='0' indent='0' leading='7' leftmargin='0' rightmargin='0' tabstops='0'><p align="left">Lolem ipsum doror sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p></textformat></category>
+</jujupage>

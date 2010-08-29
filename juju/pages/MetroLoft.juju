@@ -1,0 +1,18 @@
+<?xml version="1.0" encode="UTF-8"?>
+<jujupage title="Metro & Loft" type="categories"> <!-- Category list. Could use "gallery" or "page" as well -->
+	<pageText title="Contemporary Collection"><textformat blockindent='0' indent='0' leading='7' leftmargin='0' rightmargin='0' tabstops='0'><p align="left">The Contemporary Collection features accent furniture items and a complete bedroom collection.  The collection offers high quality workmanship and is available in a variety of aniline dyed exotic veneers or in ecologically friendly cork also available in a variety of colors and grain patterns. Standard construction of the collection includes aniline dyed birdseye maple, curly maple and dyed birch done in rich tones of grey to correlate with the brushed steel trim hardware and other elements. The Contemporary Collection done in cork is a striking marriage of elegance and ecological sensitivity.  Done in rich brown and biege, this color combination also correlates beautifully with the brushed steel trim hardware and other elements.</p></textformat></pageText>
+	<category name="Panel Headboard, 6/6" type="page"><textformat blockindent='0' indent='0' leading='7' leftmargin='0' rightmargin='0' tabstops='0'><p align="left">Metro VersionItem No: 901-21-21<br></br>
+Finish: Natural Maple<br></br>
+Dimensions: 72W x 60H x 2D<br></br>
+Description: Features dark grey dyed birth and light grey birdseye maple in assymetric pattern.</p></textformat></category>
+
+	<category name='Night Table' type='page'><textformat blockindent='0' indent='0' leading='7' leftmargin='0' rightmargin='0' tabstops='0'><p align="left">Item No: 901-71-21<br></br>
+Finish: Natural Maple<br></br>
+Dimensions: 25W x 18D x 25 1/4H<br></br>
+Description: Curly maple case and light grey dyed birdseye maple.Open shelf, plinth base. Shown with optional designer hardware.</p></textformat></category>
+
+	<category name='Console Table' type='page'><textformat blockindent='0' indent='0' leading='7' leftmargin='0' rightmargin='0' tabstops='0'><p align="left">Item No: 909-41-31<br></br>
+Finish: Black/Silver Accents<br></br>
+Dimensions: 54W x 16D x 31H<br></br>
+Description: Curly maple case and shelf, brushed steel frame, light grey birdseye maple drawer front. Shown with optional designer hardware.</p></textformat></category>
+</jujupage>

@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+		<title></title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<script type="text/javascript" src="swfobject.js"></script>
+		<script type="text/javascript" src="swfaddress.js"></script>
+		<script type="text/javascript">
+			function setSEO(data)
+			{
+				document.getElementById('mainDiv').innerHTML=""+data+"";
+			}
+		</script>
+		<style type='text/css' >
+			html {
+				text-align:left;
+				height: 100%;
+				min-height: 784px;
+				max-height: 1000px;
+				width: 2500px;
+			}
+			body {
+				text-align:left;
+				height: 100%;
+				min-height: 784px;
+				max-height: 1000px;
+				width: 2500px;
+				padding: 0px;
+				margin: 0px;
+			}
+			div {
+				text-align:left;
+				width: 2500px;
+				text-align:left;
+				min-height: 784px;
+				max-height: 1000px;
+				margin: 0px;
+				padding: 0px;
+			}
+			#myAlternativeContent {
+				text-align:left;
+				position: absolute;
+				top: 0px;
+				left: 0px;
+				min-height: 784px;
+				max-height: 1000px;
+				height: 100%;
+				width: 2500px;
+			}
+		</style>
+	</head>
+	<body style='overflow-x:hidden' >
+		<div id="myAlternativeContent">
+			<a href="http://www.adobe.com/go/getflashplayer">
+				<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+			</a>
+		</div>
+		<div id="mainDiv" style="color:white;font-size:1px;"/>
+	</body>
+	<script type="text/javascript">
+			/* var flashvars = {};
+			var params = {};
+			params.play = "true";
+			params.loop = "false";
+			params.menu = "false";
+			params.scale = "noorder";
+			params.salign = "tl";
+			params.AllowScriptAccess = "always";
+			var attributes = {};
+			attributes.id = "juju";
+			attributes.align = "middle";
+			swfobject.embedSWF("Juju.swf", "myAlternativeContent", "2500", "784", "9.0.0", "expressInstall.swf", flashvars, params, attributes);*/
+			var so = new SWFObject("Juju.swf", "Juju", "2500", "784", "9", "#FFFFFF");
+            so.addParam("scale", "noorder");	
+            so.addParam("menu","false");
+            so.addParam("loop","false");
+            so.addParam("play","true");
+            /*so.addParam("wmode", "transparent");*/
+			so.addParam("AllowScriptAccess", "always");
+			//so.addAttribute("align","middle");
+			//so.addAttribute("id","juju");
+            so.write("myAlternativeContent");
+		</script>
+</html>

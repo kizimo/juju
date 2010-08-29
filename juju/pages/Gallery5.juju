@@ -1,0 +1,23 @@
+<?xml version="1.0" encode="UTF-8"?>
+<jujupage title="Gallery 5" type="categories"> <!-- Category list. Could use "gallery" or "page" as well -->
+	<category name="Category 1" type="page">
+		<!-- Category HTML content here -->
+		Lorem Ipsum Dolor Sit Amet...
+	</category>
+	<category name="Category 2" type="page">
+		<!-- Category HTML content here -->
+		Lorem Ipsum Dolor Sit Amet...
+	</category>
+	<category name="Category 3" type="page">
+		<!-- Category HTML content here -->
+		Lorem Ipsum Dolor Sit Amet...
+	</category>
+	<category name="Category 4" type="page">
+		<!-- Category HTML content here -->
+		Lorem Ipsum Dolor Sit Amet...
+	</category>
+	<category name="Category 5" type="page">
+		<!-- Category HTML content here -->
+		Lorem Ipsum Dolor Sit Amet...
+	</category>
+</jujupage>

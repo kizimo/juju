@@ -1,0 +1,31 @@
+<?xml version="1.0" encode="UTF-8"?>
+<juju>
+	<config>
+		<navigation xposition="20" yposition="0"/>
+	</config>
+	<menu>
+		<option title="Home"/> <!-- including a link attribute sends the main window to the page specified when clicked -->
+		<option title="Products" overcolor="ffcc00" textcolor="ff0000"> <!-- can nest additional menus multiple levels deep -->
+			<option title="Accent" link="pages/Accent.juju">
+				<!-- option title="Drawer Chest" link="pages/DrawerChest.juju" />
+				<option title="Oval Mirror White" link="pages/OvalMirrorWhite.juju" />
+				<option title="Oval Mirror Black" link="pages/OvalMirrorBlack.juju" / -->
+			</option>
+			<option title="Cornice" link="pages/Cornice.juju"/>
+			<option title="French" link="pages/French.juju"/>
+			<option title="Metro & Loft" link="pages/MetroLoft.juju"/>
+		</option>
+		<option title="News" link="pages/News.juju" />
+		<option title="Gallery">
+			<option title="Gallery 1" type="gallery" gallerylink="pages/Gallery1.xml" link="pages/Gallery1.juju" />
+			<!-- option title="Gallery 1" link="pages/Gallery1.juju" / -->
+			<option title="Gallery 2" link="pages/Gallery2.juju" />
+			<option title="Gallery 3" link="pages/Gallery3.juju" />
+			<option title="Gallery 4" link="pages/Gallery4.juju" />
+			<option title="Gallery 5" link="pages/Gallery5.juju" />
+		</option>
+		<option title="About Us" type="about" link="pages/About.juju" />
+		<option title="Contact Us" link="contact" />
+		<option title="Login" link="login" />
+	</menu>
+</juju>

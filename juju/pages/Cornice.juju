@@ -1,0 +1,14 @@
+<?xml version="1.0" encode="UTF-8"?>
+<jujupage title="Cornice" type="categories"> <!-- Category list. Could use "gallery" or "page" as well -->
+	<pageText title="Accent Furniture Collection"><textformat blockindent='0' indent='0' leading='7' leftmargin='0' rightmargin='0' tabstops='0'><p align="left">These eclectic pieces typically correlate with a variety of styles<br></br>P Chrisley International collection.</p></textformat></pageText>
+	<category name="Traditional Drawer Chest" type="page"><textformat blockindent='0' indent='0' leading='7' leftmargin='0' rightmargin='0' tabstops='0'><p align="left">Item No: 909-61-30<br></br>
+Finish: Dry Antique White<br></br>
+Dimensions: 40W x 13.5D x 31H<br></br>
+Description: 4 graduated drawers, fluted and canted front sides; shown with Prince of Wales hardware</p></textformat></category>
+	<category name='Oval "Leaf" Mirror, White' type='page'><textformat blockindent='0' indent='0' leading='7' leftmargin='0' rightmargin='0' tabstops='0'><p align="left">Item No: 909-41-30<br></br>
+Finish: Dry Antique White<br></br>
+Description: organic leaf carvings with berry accents</p></textformat></category>
+	<category name='Oval "Leaf" Mirror, Black' type='page'><textformat blockindent='0' indent='0' leading='7' leftmargin='0' rightmargin='0' tabstops='0'><p align="left">Item No: 909-41-31<br></br>
+Finish: Black/Silver Accents<br></br>
+Description: organic leaf carvings with berry accents</p></textformat></category>
+</jujupage>

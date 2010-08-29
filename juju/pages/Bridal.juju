@@ -1,0 +1,7 @@
+<?xml version="1.0" encode="UTF-8"?>
+<jujupage title="Bridal" type="categories"> <!-- Category list. Could use "gallery" or "page" as well -->
+	<category name="Bridal Category 1" type="page">
+		<!-- Category HTML content here -->
+		Lorem Ipsum Dolor Sit Amet...
+	</category>
+</jujupage>

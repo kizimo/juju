@@ -1,0 +1,5 @@
+<?xml version="1.0" encode="UTF-8"?>
+<jujupage title="Gallery 3" type="categories"> <!-- Category list. Could use "picture" or "page" as well -->
+	<category name="Gallery 3 Category 1" type="gallery" location="pages/Gallery1.xml" />
+	<category name="Gallery 3 Category 2" type="gallery" location="pages/Gallery1.xml" />
+</jujupage>
